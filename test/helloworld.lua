@@ -8,3 +8,6 @@ for k,v in pairs(tab)
 end
 
 print("分支合并实验2")
+
+function fix()
+end
