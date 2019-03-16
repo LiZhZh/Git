@@ -8,3 +8,5 @@ for k,v in pairs(tab)
 end
 
 print("远程同步本地添加练习")
+
+print("分支合并")
